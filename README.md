@@ -15,5 +15,5 @@ I'm a highly motivated professional with a passion for learning and a knack for 
 
 ## Skills
 **Technical skills:** Python, Tableau, MySQL, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
-**Soft skills:** problem-solving, communication, teamwork, time management, critical thinking
-**Language skills:** Bahasa Indonesia (Native), English (Intermediate).
+<br>**Soft skills:** problem-solving, communication, teamwork, time management, critical thinking
+<br>**Language skills:** Bahasa Indonesia (Native), English (Intermediate).
